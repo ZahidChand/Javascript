@@ -20,5 +20,6 @@
 
 */
 var myName = 'Zahid Chand';
+
 console.log(myName);
 

@@ -19,7 +19,7 @@
     -- You  can't use any javascript reserved words as a variables.
 
 */
-var myName = 'Zahid Chand';
+var myName = 'Zahid Chand'; 
   
 console.log(myName);
 

@@ -7,6 +7,7 @@
         Use else if to specify a new condition to test, if the first condition is false
 
  Syntax :-->
+ 
             if (condition) {
                 //  block of code to be executed if the condition is true
             }

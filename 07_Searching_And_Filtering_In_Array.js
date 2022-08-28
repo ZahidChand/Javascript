@@ -2,6 +2,7 @@
       
       Anything you want to search in an array then we have some methods
       
+      
       1. indexof() :-->
                 - The indexOf() method returns the first index (position) of a specified value.
 

@@ -5,6 +5,7 @@
   var name3 = "Jessy"
   var name4 = "Hank"
   
+  
   If we have multiple name we can create multiple variables but it's not a good practice.
   So to overcome with that issue we need to have Arrays.
   

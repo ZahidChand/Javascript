@@ -1,6 +1,7 @@
 /*** Values And Variables In Javascript ***/
 
 /* 
+
     variables are Use to store data or values
     Naming conventions are very important while making a variables.
     You cannot simply write anyname as variables.

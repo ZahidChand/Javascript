@@ -1,6 +1,6 @@
 // Datatypes In Javascript
   
-/*  
+/*   
 
     When we create a variable and  then when we assign any value to that variable
     using assignment operator and what value we have assignmed what was that type of

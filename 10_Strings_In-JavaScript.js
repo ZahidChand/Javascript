@@ -2,7 +2,7 @@
         *****Strings In JavaScript***** 
 
     JavaScript strings are for storing and manipulating text.
-
+ 
     A JavaScript string is zero or more characters written inside quotes.
 
     You can use single or double quotes:

@@ -2,7 +2,7 @@
 
 /* Map And Reduce Method
    
-Syntax-->
+Syntax--> 
 
 			Array.portotype.map()
 let newArray =  arr.map(callback(currentValue [ , index[ , array]]){

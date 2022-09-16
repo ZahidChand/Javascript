@@ -1,6 +1,6 @@
 // 9_Map_Reduce_Filter.js
 
-/* Map And Reduce Method
+/* Map And Reduce Method 
    
 Syntax--> 
 

@@ -1,5 +1,5 @@
 /**
- * Expression And Operators In Javascript  
+ * Expression And Operators In Javascript 
  * 
  *  There are 6 types of operators in javascript
  *      

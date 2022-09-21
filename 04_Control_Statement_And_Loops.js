@@ -1,6 +1,6 @@
 /* Control Statement And Loops
 
-    ***If...Else***     
+    ***If...Else***    
 
         Use if to specify a block of code to be executed, if a specified condition is true
         Use else to specify a block of code to be executed, if the same condition is false

@@ -1,4 +1,4 @@
-    ***** Searching And Filtering In Array In JavaScript *****     
+    ***** Searching And Filtering In Array In JavaScript *****    
       
       Anything you want to search in an array then we have some methods
       

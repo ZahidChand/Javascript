@@ -1,5 +1,5 @@
 // Datatypes In Javascript
- 
+  
 /*
 
     When we create a variable and  then when we assign any value to that variable

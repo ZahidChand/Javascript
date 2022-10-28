@@ -15,7 +15,7 @@
 
     -- variables names are case sensitive.
 
-    -- No limt to the length of variable name
+    -- No limit to the length of variable name
 
     -- You  can't use any javascript reserved words as a variables.
 

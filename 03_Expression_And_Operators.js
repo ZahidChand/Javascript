@@ -1,6 +1,6 @@
 /**
  * Expression And Operators In Javascript
- * 
+ *  
  *  There are 6 types of operators in javascript
  *      
  *  1. Assignment Operators     ( = )

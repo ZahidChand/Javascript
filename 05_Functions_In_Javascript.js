@@ -1,5 +1,5 @@
     /**
-     * Functions In JavaScript
+     * Functions In JavaScript 
      * 
      *      A function in javascript is a block of code that is designed to perform a 
      * perticular task.

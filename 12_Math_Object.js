@@ -22,7 +22,7 @@ console.log(Math.round(num2));      // 11
 
 // Math.pow() 
 // Math.pow(x, y) //returns the value of x to the power of y
-
+ 
 console.log(Math.pow(2, 3));            //8
 console.log(2 ** 3);                    //8
 

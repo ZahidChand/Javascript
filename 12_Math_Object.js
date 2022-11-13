@@ -19,7 +19,7 @@ console.log(Math.round(num2));      // 11
 
 // After decimal whichevr number is closest it will take that no and return the output
 
-
+ 
 // Math.pow() 
 // Math.pow(x, y) //returns the value of x to the power of y
  

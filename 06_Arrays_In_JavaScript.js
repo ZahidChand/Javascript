@@ -1,5 +1,5 @@
 *****Arrays In JavaScript*****
-  When we use var we can only store one value at a time 
+  When we use var we can only store one value at a time
   var name1 = "Walter"
   var name2 = "Skyler"
   var name3 = "Jessy"

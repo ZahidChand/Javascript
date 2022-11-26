@@ -1,5 +1,5 @@
 
-/**DOM */  
+/**DOM */
 
 // Window is the main container or we can say the
 // global Object and any operations related to entire 

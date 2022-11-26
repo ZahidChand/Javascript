@@ -1,5 +1,5 @@
 /**
-    The window object allows execution of code at specified time intervals.  
+    The window object allows execution of code at specified time intervals. 
 
     These time intervals are called timing events.
 

@@ -1,7 +1,7 @@
 // Date And Time In JavaScript
 
 /**
- * JavaScript date objects represents a single moment in time in a platform independent   
+ * JavaScript date objects represents a single moment in time in a platform independent 
  * format. 
  * 
  * Date object contain a number that represent millisecond since 1 January 1979 UTC.

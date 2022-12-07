@@ -1,5 +1,5 @@
 /**
-        *****Strings In JavaScript*****  
+        *****Strings In JavaScript*****   
  
     JavaScript strings are for storing and manipulating text.
    

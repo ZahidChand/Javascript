@@ -27,7 +27,7 @@
  2: By Calling a funcion (We already seen and most common way of writing) 
  3: using Inline events (HTML onclick="" property and element.onclick)
  4: using Event Listeners (addEventListener and IE's attachEvent)
-
+ 
 
  Q . What is Event Object?
         Event object is the parent object of the event object. 

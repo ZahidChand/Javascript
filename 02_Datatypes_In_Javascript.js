@@ -1,4 +1,4 @@
-// Datatypes In Javascript  
+// Datatypes In Javascript   
   
 /*
 

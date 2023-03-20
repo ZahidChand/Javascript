@@ -1,5 +1,5 @@
 /**
- *      Events In Javascript   
+ *      Events In Javascript 
  *      
  *  HTML events are "things" that happen to HTML elements.
 
